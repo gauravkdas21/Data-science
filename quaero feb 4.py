@@ -11,7 +11,7 @@ import os
 
 pd.options.mode.chained_assignment = None
 
-os.chdir(r'D:\personal data\quaero')
+os.chdir(r'D:\personal data\firm_X')
 
 p_train = pd.read_csv("puzzle/puzzle_train_dataset.csv")
 p_test = pd.read_csv("puzzle/puzzle_test_dataset.csv")
